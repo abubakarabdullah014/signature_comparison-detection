@@ -102,8 +102,8 @@ Steps
 
 Clone the Repository:
 
-git clone https://github.com/your-username/signature-comparison-detection.git
-cd signature-comparison-detection
+git clone https://github.com/your-username/signature_comparison-detection.git
+cd signature_comparison-detection
 
 
 
